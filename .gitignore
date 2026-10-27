@@ -1,0 +1,11 @@
+# Скриени фајлови од PyCharm / IDE
+.idea/
+*.class
+
+# Backend (Spring Boot)
+**/target/
+**/.mvn/
+
+# Frontend (React / Next.js)
+**/.next/
+**/node_modules/
